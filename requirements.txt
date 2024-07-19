@@ -2,8 +2,9 @@ pandas
 numpy
 matplotlib
 seaborn
-sklearn
-scikitplot
+scikit-learn
+scikit-plot
 tensorflow
 scipy==1.11.4
 xgboost
+optuna
