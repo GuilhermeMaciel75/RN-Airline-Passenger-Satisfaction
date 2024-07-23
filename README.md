@@ -35,6 +35,6 @@ Em caso negativo, siga os seguintes passos:
     mkdir pykan-env/lib/python3.10/site-packages/kan/assets/img
     ```
 
-2. Baixe os arquivos `mult_symbol.png` e `sum_symbol.png` do repositório do Pykan `https://github.com/KindXiaoming/pykan/tree/master/kan/assets/img`
+2. Baixe os arquivos `mult_symbol.png` e `sum_symbol.png` do [repositório do Pykan](https://github.com/KindXiaoming/pykan/tree/master/kan/assets/img)
 
 3. Copie os arquivos para o diretório criado `pykan-env/lib/python3.10/site-packages/kan/assets/img`
