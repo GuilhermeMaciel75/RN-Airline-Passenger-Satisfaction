@@ -1,0 +1,17 @@
+*~
+*.org
+*.pem
+*.pkl
+*.pyc
+.DS_Store
+loc.py
+src/ec2
+
+src/test_model.plk
+src/imagens_teste/
+src/data/
+
+projeto_2/models/
+projeto_2/saves/
+
+.venv/
