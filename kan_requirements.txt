@@ -10,3 +10,6 @@ seaborn
 pyyaml
 scikit-plot
 scipy==1.11.4
+optuna
+plotly
+nbformat
