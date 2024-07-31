@@ -8,3 +8,6 @@ tensorflow
 scipy==1.11.4
 xgboost
 optuna
+
+torch==2.2.2
+pykan
